@@ -13,8 +13,8 @@ class Chart extends Component{
                     {
                         label:'Bill',
                         data:[124,94,70,73],
-                        backgroundColor:['rgba(255,99,132,0.6)','rgba(255,99,132,0.6)',
-                            'rgba(255,99,12,0.6)','rgba(25,99,132,0.6)']
+                        backgroundColor:['rgba(0,0,200,0.6)','rgba(0,0,200,0.6)',
+                            'rgba(0,0,200,0.6)','rgba(0,0,200,0.6)']
                     }
                 ]
             }

@@ -12,8 +12,8 @@ class Chart2 extends Component{
                 datasets:[{
                     label:'Savings',
                     data:[13,3,1.3,3.5],
-                    backgroundColor:['rgba(255,99,132,0.6)','rgba(255,99,132,0.6)',
-                        'rgba(255,99,12,0.6)','rgba(25,99,132,0.6)']
+                    backgroundColor:['rgba(0,128,0,0.6)','rgba(0,128,0,0.6)',
+                        'rgba(0,128,0,0.6)','rgba(0,128,0,0.6)']
                 }
                 ]
             }

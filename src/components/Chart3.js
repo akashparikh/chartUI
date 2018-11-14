@@ -11,10 +11,10 @@ class Chart3 extends Component{
                 labels:['4','3','2','1'],
                 datasets:[
                     {
-                        label:'Kwh',
+                        label:'kwh',
                         data:[1000,730,500,750],
-                        backgroundColor:['rgba(255,99,132,0.6)','rgba(255,99,132,0.6)',
-                            'rgba(255,99,12,0.6)','rgba(25,99,132,0.6)']
+                        backgroundColor:['rgba(240,0,0,0.6)','rgba(240,2,2,0.6)',
+                            'rgba(240,0,0,0.6)','rgba(240,2,2,0.6)']
                     }
                 ]
             }
